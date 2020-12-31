@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     //ilk kök widget
     return MaterialApp(
-      title: "Burç Rehberi",
+      title: "Burç Rehberi Burç Rehberi Burç Rehberi",
       theme: ThemeData(primarySwatch: Colors.lightBlue),
       home: HoroscopList(),
     );
